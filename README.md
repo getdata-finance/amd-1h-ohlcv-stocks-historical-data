@@ -27,7 +27,7 @@
 - Built for **backtesting**, **algorithmic trading** and **quantitative finance** workflows
 - **Weekly refresh** — [getdata.finance](https://getdata.finance) every **Saturday, 8am UTC+0**; GitHub `1h` sample updated in sync
 
-> **Sample on GitHub** · `AMD_1h.csv` (995 rows, `2026-02-06` -> `2026-09-01`, 98.64 KB). **Full archive on [getdata.finance](https://getdata.finance/datasets/amd)** — **9,454** `1h` rows (full `1m`: 526,381), **11 timeframes**, `2021-04-13` -> `2026-09-01`.
+> **Sample on GitHub** · `AMD_1h.csv` (924 rows, `2026-02-24` -> `2026-09-01`, 91.33 KB). **Full archive on [getdata.finance](https://getdata.finance/datasets/amd)** — **9,454** `1h` rows (full `1m`: 525,821), **11 timeframes**, `2021-04-13` -> `2026-09-01`.
 
 ## Download sample
 
@@ -45,9 +45,9 @@ Full archive & live chart on getdata.finance: **[https://getdata.finance/dataset
 |---|--:|---|
 | Instrument | Advanced Micro Devices · US stocks | Advanced Micro Devices · US stocks |
 | Timeframes | `1h` (sample) | **11** — 1m · 3m · 5m · 15m · 30m · 1H · 4H · 12H · 1D · 3D · 1W |
-| 1h rows | 995 | **9,454** |
-| Size | 98.64 KB | full ZIP on [getdata.finance](https://getdata.finance/datasets/amd) |
-| Period | `2026-02-06` -> `2026-09-01` | `2021-04-13` -> `2026-09-01` |
+| 1h rows | 924 | **9,454** |
+| Size | 91.33 KB | full ZIP on [getdata.finance](https://getdata.finance/datasets/amd) |
+| Period | `2026-02-24` -> `2026-09-01` | `2021-04-13` -> `2026-09-01` |
 | File | `AMD_1h.csv` | ZIP on [getdata.finance](https://getdata.finance/datasets/amd) |
 | Coverage report | — | [AMD coverage](https://getdata.finance/coverage/amd) |
 | Updates | Weekly (Saturday, 8am UTC+0) — GitHub sample | Weekly (Saturday, 8am UTC+0) — all timeframes |
@@ -75,11 +75,11 @@ First and latest rows from the GitHub sample **`AMD_1h.csv`**:
 
 | datetime | open | high | low | close | volume |
 | --- | --- | --- | --- | --- | --- |
-| 2026-02-06T20:00:00+00:00 | 202.55 | 205.53 | 202.29 | 204.59 | 8249 |
-| 2026-02-09T14:00:00+00:00 | 204.59 | 210.1 | 200.43 | 209.42 | 7599 |
-| 2026-02-09T15:00:00+00:00 | 209.42 | 212.13 | 208.36 | 211.59 | 10739 |
-| 2026-02-09T16:00:00+00:00 | 211.59 | 213 | 211.07 | 212.21 | 6565 |
-| 2026-02-09T17:00:00+00:00 | 212.21 | 212.97 | 211.52 | 211.84 | 4989 |
+| 2026-02-24T14:00:00+00:00 | 193.01 | 209.7 | 193.01 | 207.66 | 7074 |
+| 2026-02-24T15:00:00+00:00 | 207.66 | 209.09 | 205.29 | 206.27 | 16216.06961 |
+| 2026-02-24T16:00:00+00:00 | 206.27 | 209.31 | 205.98 | 209.21 | 12662 |
+| 2026-02-24T17:00:00+00:00 | 209.21 | 212.69 | 208.96 | 212.37 | 11663 |
+| 2026-02-24T18:00:00+00:00 | 212.37 | 213.04 | 210.49 | 211.64 | 10774 |
 
 **Last rows**
 
